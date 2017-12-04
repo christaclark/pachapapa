@@ -579,7 +579,7 @@ footer {
   padding: 72px 0;
 }
 .fullscreen {
-  height: 100vh;
+  height: 100vh!important;
 }
 .bg-dark h1,
 nav.bg-dark h1,
